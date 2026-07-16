@@ -1,3 +1,3 @@
-import "./styles.css";
+import initialLoad from "./initialLoad.js";
 
-console.log("Hello Zaib!");
+initialLoad();
